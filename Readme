@@ -4,17 +4,17 @@ Our project for collective mining combines the goals and ideas of mutual benefit
 To launch the wallet and start mining, you must have the Tor browser installed. Before launching the wallet, first launch the Tor browser and only then the wallet itself.
 
 Our features
-1) FiroPow algo for mining
+1) ProgPow algo for mining
 2) Fast start for mining
 3) High level security for transactions
 4) Own budget for promotions and listing
 5) Own messenger for safety communications (currently closed beta)
 
 Sirkona Specifications:
-Algorithm : FiroPow
+Algorithm : ProgPow
 Total Supply : 80,000,000
 Block Speed : 136 seconds
-Block Reward : 50 SRN
+Block Reward : 50 KSR
 Block halving: every 1 year
 Port : 1152
 
