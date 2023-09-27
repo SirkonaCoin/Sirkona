@@ -1,0 +1,29 @@
+Our project for collective mining combines the goals and ideas of mutual benefit through mining using the firopou algorithm. The main goal of the project is to create decentralized nodes for storing various types of information. Transfers between wallets are carried out using S rings. The project does not have an explorer - which will allow you to maintain security and anonymity when transferring transactions, as well as when transferring information via a secure protocol.
+
+
+To launch the wallet and start mining, you must have the Tor browser installed. Before launching the wallet, first launch the Tor browser and only then the wallet itself.
+
+Our features
+1) FiroPow algo for mining
+2) Fast start for mining
+3) High level security for transactions
+4) Own budget for promotions and listing
+5) Own messenger for safety communications (currently closed beta)
+
+Sirkona Specifications:
+Algorithm : FiroPow
+Total Supply : 80,000,000
+Block Speed : 136 seconds
+Block Reward : 50 SRN
+Block halving: every 1 year
+Port : 1152
+
+Website
+https://sirkonaproject.io (dns updates for 2-3 days)
+
+Roadmap
+Q4 2023: Closed beta project M, exchange listing
+
+Q1 2024: Middle exchange listing, mobile/web version wallets
+
+Q2 2024: Project M for secure messages and first public test
